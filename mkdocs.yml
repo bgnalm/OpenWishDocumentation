@@ -1,0 +1,11 @@
+site_name: OpenWish
+site_description: Documentation for the OpenWish Server and API
+theme: readthedocs
+pages:
+- ['index.md', 'Home']
+- ['how_it_works.md', 'How It Works']
+- ['api/create_user.md', 'API', 'Create User']
+- ['api/add_wish.md', 'API', 'Add Wish']
+- ['api/get_wishes.md', 'API', 'Get Wishes']
+- ['api/get_wish.md', 'API', 'Get Wish']
+
