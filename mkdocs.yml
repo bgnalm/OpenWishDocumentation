@@ -8,4 +8,7 @@ pages:
 - ['api/add_wish.md', 'API', 'Add Wish']
 - ['api/get_wishes.md', 'API', 'Get Wishes']
 - ['api/get_wish.md', 'API', 'Get Wish']
+- ['api/time_left.md', 'API', 'Time Left']
+- ['api/read_wish.md', 'API', 'Read Wish']
+- ['api/rate_wish.md', 'API', 'Rate Wish']
 
